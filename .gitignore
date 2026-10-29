@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Build output
+/atlas-bench
+
+# Benchmark results
+*.csv
+
+# Local tooling
+.codegraph/
+.DS_Store
